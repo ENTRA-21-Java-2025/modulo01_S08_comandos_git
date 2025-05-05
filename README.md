@@ -1,6 +1,5 @@
-i# git-introducao
 
-## Introdução ao Uso do GIT
+# Introdução ao Uso do GIT
 
 ### Sua Identidade
 A primeira coisa que você deve fazer após instalar o Git é definir o seu nome de usuário e 
