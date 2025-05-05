@@ -714,4 +714,4 @@ Manter o arquivo no seu disco rígido mas parar de monitorar com o Git
 
 	git log
 
-### Espero ter ajudado você com esse conteúdo. DESENVOLVIDO BY JULIA BARBOSA.	
+### Espero ter ajudado você com esse conteúdo.	
